@@ -567,6 +567,6 @@ export default class Game extends Phaser.Scene {
     if (this.brickTimer) {
       this.brickTimer.remove(false);
     }
-  }
+  }//d
 }
     
